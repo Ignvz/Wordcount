@@ -1,4 +1,5 @@
-happy =(input("Enter a phrase:"))
+
+happy =(input("Enter a statement to check word frequency: "))
 
 words = happy.split()  #split user input on spaces
 
