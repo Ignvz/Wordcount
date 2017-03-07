@@ -1,4 +1,4 @@
-happy =(input("Type your phrase here:"))
+happy =(input("Enter a STATEMENT:"))
 
 words = happy.split()
 
