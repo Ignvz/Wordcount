@@ -1,6 +1,6 @@
 happy =(input("Enter a STATEMENT:"))
 
-words = happy.split()
+words = happy.split()  #split user input on spaces
 
 counts = {}
 for word in words:
